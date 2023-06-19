@@ -1,0 +1,1 @@
+参考官网的测试代码进行修改，智能合约见/lib/assetTransfer.js
